@@ -33,3 +33,4 @@ new features, this guide will help you get started. 🎉
   - If not there, create a new issue. Be as descriptive as possible.
 - Ask in our weekly IT Club office hours (Thursdays at lunch in Room 203).
 - For other general problems, email the tech team at techclub@mergingtonhigh.example.edu
+<!-- Trigger GitHub Skills Step 2 -->
