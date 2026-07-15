@@ -56,3 +56,4 @@ face temporary or permanent repercussions as determined by the school administra
 
 This Code of Conduct is adapted from the Contributor Covenant,
 version 1.4.
+<!-- Trigger GitHub Skills Step 3 -->
