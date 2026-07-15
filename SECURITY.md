@@ -25,3 +25,4 @@ At Mergington High, we take the security of our Extra-Curricular Activities webs
 
 Your help in keeping our school's digital resources secure is greatly appreciated!
 Responsible disclosure of security vulnerabilities helps protect our entire school community.
+<!-- Trigger GitHub Skills Step 4 -->
